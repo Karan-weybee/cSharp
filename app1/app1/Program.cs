@@ -10,6 +10,7 @@ namespace app1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("app 1 file");
         }
     }
 }
