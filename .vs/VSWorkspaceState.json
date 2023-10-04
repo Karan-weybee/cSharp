@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app1",
+    "\\app1\\app1"
   ],
-  "SelectedNode": "\\C:\\Users\\DELL\\Source\\cSharp",
+  "SelectedNode": "\\app1\\app1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
